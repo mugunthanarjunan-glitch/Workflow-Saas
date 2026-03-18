@@ -51,8 +51,8 @@ Creates:
 | Email | Password | Role |
 |---|---|---|
 | admin@example.com | admin123 | admin |
-| manager@example.com | manager123 | manager |
-| employee@example.com | employee123 | employee |
+
+The other users acount and password are created by admin
 
 ## Environment Variables
 
